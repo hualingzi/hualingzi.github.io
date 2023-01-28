@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmy_blog"]=self["webpackChunkmy_blog"]||[]).push([[534],{534:function(n,r,e){e.r(r),e.d(r,{default:function(){return l}});var u=e(252);function t(n,r){return(0,u.wg)(),(0,u.iD)("div",null,"friend")}var c=e(744);const f={},i=(0,c.Z)(f,[["render",t]]);var l=i}}]);
+//# sourceMappingURL=534.9059c41f.js.map
